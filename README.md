@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @nusrathdev  
+- 👀 I’m deeply passionate about data-related technologies, particularly **Data Engineering** and **Data Science**, and how they can transform raw data into meaningful insights.  
+- 🌱 I’m currently delving into advanced concepts in data processing, analytics, and visualization.  
+- 💞️ I’m eager to collaborate on projects involving big data, machine learning, or innovative cloud-based data solutions.  
+- 📫 How to reach me: nusrathdev@gmail.com
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I thrive on discovering patterns in data and converting complexity into clarity!
