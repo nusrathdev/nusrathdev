@@ -36,7 +36,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sql,aws,gcp,docker,linux,git,airflow,spark,pandas&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,remix,aws,gcp,docker,linux,git,airflow,spark,pandas&perline=8" />
 </p>
 
 ---
@@ -46,10 +46,10 @@
 <p align="center">
   <!-- Replace the repo/project names with your actual projects -->
   <a href="https://github.com/nusrathdev/[PROJECT1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nusrathdev&repo=[PROJECT1]&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nusrathdev&repo=https://github.com/nusrathdev/madlibs&theme=radical" />
   </a>
   <a href="https://github.com/nusrathdev/[PROJECT2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nusrathdev&repo=[PROJECT2]&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nusrathdev&repo=https://github.com/nusrathdev/mad-libs-project&theme=radical" />
   </a>
 </p>
 
