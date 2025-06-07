@@ -1,15 +1,8 @@
 ## 👨‍💻 About Me
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" align="right">
-
 - 🔭 I’m a **Data Engineering** enthusiast, passionate about extracting insights from data.
 - 🚀 Currently working on several exciting data projects.
 - ♟️ When I’m not coding, I’m likely playing chess or exploring new strategies.
 - 🌱 Always learning about scalable data solutions and cloud technologies.
-
-</div>
 
 ---
 ## 📊 Stats & Activity
