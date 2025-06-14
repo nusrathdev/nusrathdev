@@ -1,6 +1,6 @@
 👨‍💻 About Me
 - 🔭 I’m a **Data Engineering** enthusiast, passionate about extracting insights from data.
-- 🚀 Currently working on several exciting data projects.
+- 🚀 Currently working on several exciting data projects & web projects.
 - ♟️ When I’m not coding, I’m likely playing chess or exploring new strategies.
 - 🌱 Always learning about scalable data solutions and cloud technologies.
 
