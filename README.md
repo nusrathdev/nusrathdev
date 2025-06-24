@@ -1,5 +1,6 @@
 👨‍💻 About Me
 - 🔭 I’m a **Data Engineering** enthusiast, passionate about extracting insights from data.
+- 🎓 Currently studying BICT (Bachelor of Information and Communication Technology) at Uva Wellassa University of Sri Lanka.
 - 🚀 Currently working on several exciting data projects & web projects.
 - ♟️ When I’m not coding, I’m likely playing chess or exploring new strategies.
 - 🌱 Always learning about scalable data solutions and cloud technologies.
